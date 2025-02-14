@@ -3,11 +3,13 @@
     <a align="center" href="" target="_blank">
       <img
         width="850"
-        src="https://raw.githubusercontent.com/roboflow/notebooks/main/assets/roboflow-notebooks-banner.png"
+        src="https://mistralaichatupprodswe.blob.core.windows.net/chat-images/assistant/da/41/6e/da416e56-6777-4682-887d-572bdcce5ad1/be1ccd8f-7a0a-4ab6-b5a4-86ac02683397/9256e8f4-b7e0-4306-905b-beb8037f5979"
       >
     </a>
   </p>
   <br>
+</div>
+
 
   [notebooks](https://github.com/roboflow/notebooks) | [inference](https://github.com/roboflow/inference) | [autodistill](https://github.com/autodistill/autodistill) | [collect](https://github.com/roboflow/roboflow-collect)
 
